@@ -52,9 +52,8 @@ x_B = 1  # The column number for Binding in file B
 y_B = 3  # The column number for Counts in file B
 
 # Optional Binding ranges: uncomment to apply constraints
-binding_range_A = (130, 138)  # Optional range for Sr3d
-#binding_range_B = None  # No constraint for Ti2p
-binding_range_B = (455, 466)  # Optional range for Ti2p
+binding_range_A = (130, 138)  # Optional range for Sr3d, set to None if not used
+binding_range_B = (455, 466)  # Optional range for Ti2p, set to None if not used
 
 plot_curve_from_excel(
     file_path_A, 
