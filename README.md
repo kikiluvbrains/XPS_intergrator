@@ -10,6 +10,7 @@ The process involves calculating the **AUC (Area Under the Curve)** using the **
 
 Next, the baseline-corrected and scaled AUC for **Compound A** and **Compound B** are obtained, and the ratio is determined by dividing **A** by **B**.
 
+!!!Disclaimer: The code is currently made to run on Jupiter Notebook
 ---
 
 ## Usage Instructions
