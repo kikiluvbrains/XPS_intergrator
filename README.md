@@ -73,5 +73,7 @@ plot_curve_from_excel(
     binding_range_B
 )
 ```
+![image](https://github.com/user-attachments/assets/4ce8c66d-dbda-469d-a8ca-0001537f0d30)
+
 ## License
 This project is licensed under the MIT License.
