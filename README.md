@@ -1,4 +1,6 @@
-# XPS_intergrator
+# XPS_intergrator 
+
+![Screenshot from 2024-11-17 18-35-04](https://github.com/user-attachments/assets/0e2e49c2-abbe-4eef-99f9-cb8ba9112040)
 
 !pip install numpy matplotlib pandas
 
