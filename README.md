@@ -1,6 +1,12 @@
 # XPS_intergrator 
 
+The XPS intergrator executable for windows is still under development, for the LAND data plotting tool is free to use.
 ![Screenshot from 2024-11-17 18-35-04](https://github.com/user-attachments/assets/0e2e49c2-abbe-4eef-99f9-cb8ba9112040)
+
+    1. Select load data you can click and select multiple files to plot multiple Land data
+    2. Adjust Plot title, and Marker size and all other fields as needed
+    3. Click on “Plot Data”
+    4. Select “Save Plot” to save it as a .png or .jpg file
 
 !pip install numpy matplotlib pandas
 
